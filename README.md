@@ -11,8 +11,8 @@
 <img src="https://github.com/romegor/ml_tg_bot/blob/main/img/style.jpg">
 </p>
 
-<p align="center">
 Пример изображения после обработки
+<p align="center">
 <img src="https://github.com/romegor/ml_tg_bot/blob/main/img/out1.jpg">
 </p>
 
